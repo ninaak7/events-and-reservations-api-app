@@ -1,0 +1,12 @@
+/vendor/
+/node_modules/
+/storage/
+/bootstrap/cache/
+.env
+.env.example
+/public/storage
+/database/*.sqlite
+/database/*.sqlite3
+/database/storage
+/config/backups/
+/config/backup.php
